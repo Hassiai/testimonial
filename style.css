@@ -102,7 +102,7 @@ img {
 
     section {
         width: 80%;
-        margin: 1em 0;
+        margin: 1.5em 0;
         padding: 0;
     }
 
@@ -110,7 +110,7 @@ img {
 
         display: grid;
         grid-gap: 1.5rem;
-        grid-template-columns: repeat(4, 0.25fr);
+        grid-template-columns: repeat(4, 0.3fr);
         grid-template-rows: 0.1fr;
 
     }
@@ -130,7 +130,7 @@ img {
     }
 
     .item {
-        padding: 2em 3rem;
+        padding: 1.25em 3rem;
     }
 
     .content {
